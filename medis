@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+      background: #f5f0e8;
+    }
+    h1 {
+      font-size: 3em;
+      color: #2d5a27;
+      letter-spacing: 4px;
+    }
+    img {
+      width: 220px;
+      margin-top: 30px;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+  <h1>ME-DIS</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg/800px-Ash_Tree_-_geograph.org.uk_-_590710.jpg" alt="Medis">
+</body>
+</html>
